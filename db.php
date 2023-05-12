@@ -1,6 +1,6 @@
 <?php
 
-$servername="192.168.1.4:8003";
+$servername="192.168.1.4:8080";
 $dbname = "Cashapp";
 $username = "root";
 $password = "";
