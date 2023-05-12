@@ -1,9 +1,9 @@
 <?php
 
-$servername="sql7.freemysqlhosting.net";
-$dbname = "sql7614113";
-$username = "sql7614113";
-$password = "W55Pq98mKm";
+$servername="192.168.1.4:8003";
+$dbname = "Cashapp";
+$username = "root";
+$password = "";
 
 $link=mysqli_connect($servername,$username, $password,$dbname);
 
